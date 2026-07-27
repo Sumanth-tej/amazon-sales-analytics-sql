@@ -1,10 +1,11 @@
 # Amazon Sales Analytics using SQL
 
-This repository contains real-world SQL business case studies based on an Amazon Sales dataset.
+This repository showcases SQL business case studies based on an Amazon Sales dataset. 
 
-Each business case simulates practical scenarios commonly asked during SQL interviews and Data Analyst projects.
 
-## Skills Demonstrated
+Each study focuses on solving practical business problems using SQL.
+
+## SQL Concepts Covered
 
 - SQL Queries
 - Joins
@@ -36,6 +37,3 @@ amazon-sales-analytics-sql
 
 ---
 
-Created by
-
-**Sumanth Tej**
