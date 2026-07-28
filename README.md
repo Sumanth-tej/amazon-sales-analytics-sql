@@ -38,6 +38,6 @@ amazon-sales-analytics-sql
 | Case Study | Status |
 |------------|--------|
 | Top Customers by Sales | ✅ Completed |
-| Monthly Sales Analysis | 🚧 Coming Soon |
+| Monthly Sales Analysis | ✅ Completed |
 | Top Selling Products | 🚧 Coming Soon |
 | Regional Sales Analysis | 🚧 Coming Soon |
