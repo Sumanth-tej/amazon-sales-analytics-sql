@@ -2,7 +2,7 @@
 
 This repository showcases real-world SQL business case studies based on an Amazon Sales dataset.
 
-Each case study focuses on solving practical business problems using SQL.
+Each case study focuses on solving practical business problems using SQL to solve business challenges commonly encountered by Data Analysts and SQL Developers.
 
 ---
 
@@ -11,9 +11,9 @@ Each case study focuses on solving practical business problems using SQL.
 - SQL Queries
 - Joins
 - Aggregate Functions
-- Window Functions *(Coming Soon)*
-- Subqueries *(Coming Soon)*
-- Common Table Expressions (CTEs) *(Coming Soon)*
+- Date Functions
+- GROUP BY
+- ORDER BY
 - Business Problem Solving
 
 ---
@@ -39,5 +39,13 @@ amazon-sales-analytics-sql
 |---------------------|--------|
 | Top Customers by Sales | ✅ Completed |
 | Top Selling Products | ✅ Completed |
-| Monthly Sales Analysis | 🚧 Coming Soon |
-| Regional Sales Analysis | 🚧 Coming Soon |
+| Monthly Sales Analysis | ✅ Completed |
+| Regional Sales Analysis | ✅ Completed |
+
+---
+
+## Repository Goal
+
+The goal of this repository is to strengthen SQL skills by solving real-world business scenarios and building a professional portfolio that demonstrates practical SQL problem-solving abilities.
+
+This repository is an ongoing portfolio project and will be continuously updated with new business case studies and advanced SQL concepts as I continue developing my SQL skills.
