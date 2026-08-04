@@ -1,6 +1,6 @@
 # Amazon Sales Analytics using SQL
 
-This repository contains real-world SQL business case studies built using an Amazon Sales dataset.
+This repository showcases a collection of real-world SQL business case studies built using an Amazon Sales dataset.
 
 Each case study focuses on solving practical business scenarios using SQL, similar to the challenges faced by Data Analysts and SQL Developers.
 
@@ -15,6 +15,7 @@ Each case study focuses on solving practical business scenarios using SQL, simil
 - GROUP BY
 - ORDER BY
 - TOP
+- Business Metrics
 - Business Problem Solving
 
 ---
@@ -29,6 +30,7 @@ amazon-sales-analytics-sql
 ├── Business-Case-Study-03
 ├── Business-Case-Study-04
 ├── Business-Case-Study-05
+├── Business-Case-Study-06
 │
 └── README.md
 ```
@@ -44,11 +46,12 @@ amazon-sales-analytics-sql
 | Monthly Sales Analysis | ✅ Completed |
 | Regional Sales Analysis | ✅ Completed |
 | Customer Purchase Analysis | ✅ Completed |
+| Average Order Value (AOV) Analysis | ✅ Completed |
 
 ---
 
 ## Repository Goal
 
-The goal of this repository is to strengthen SQL skills by solving real-world business scenarios and building a professional portfolio that demonstrates practical SQL problem-solving abilities.
+The goal of this repository is to strengthen my SQL skills by solving real-world business scenarios and building a professional portfolio that demonstrates practical SQL problem-solving abilities.
 
 This repository is continuously updated with new SQL business case studies as I progress in my SQL learning journey.
