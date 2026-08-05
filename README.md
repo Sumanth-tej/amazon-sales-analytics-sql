@@ -15,6 +15,7 @@ Each case study focuses on solving practical business scenarios using SQL, simil
 - GROUP BY
 - ORDER BY
 - TOP
+- NULL Handling (`IS NULL`)
 - Business Metrics
 - Business Problem Solving
 
@@ -31,6 +32,7 @@ amazon-sales-analytics-sql
 ├── Business-Case-Study-04
 ├── Business-Case-Study-05
 ├── Business-Case-Study-06
+├── Business-Case-Study-07
 │
 └── README.md
 ```
@@ -47,6 +49,7 @@ amazon-sales-analytics-sql
 | Regional Sales Analysis | ✅ Completed |
 | Customer Purchase Analysis | ✅ Completed |
 | Average Order Value (AOV) Analysis | ✅ Completed |
+| Customers Who Never Placed an Order | ✅ Completed |
 
 ---
 
