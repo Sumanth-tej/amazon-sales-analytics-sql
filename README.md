@@ -13,6 +13,7 @@ Each case study focuses on solving practical business scenarios using SQL, simil
 - Aggregate Functions
 - Date Functions
 - GROUP BY
+- HAVING
 - ORDER BY
 - TOP
 - NULL Handling (`IS NULL`)
@@ -33,6 +34,7 @@ amazon-sales-analytics-sql
 ├── Business-Case-Study-05
 ├── Business-Case-Study-06
 ├── Business-Case-Study-07
+├── Business-Case-Study-08
 │
 └── README.md
 ```
@@ -50,7 +52,7 @@ amazon-sales-analytics-sql
 | Customer Purchase Analysis | ✅ Completed |
 | Average Order Value (AOV) Analysis | ✅ Completed |
 | Customers Who Never Placed an Order | ✅ Completed |
-
+| City Sales Analysis | ✅ Completed |
 ---
 
 ## Repository Goal
